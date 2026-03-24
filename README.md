@@ -1,5 +1,4 @@
 # 💻 Tech Stack:
-# 🤖 AI / ML Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=plastic&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
